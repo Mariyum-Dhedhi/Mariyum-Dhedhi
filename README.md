@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mariyum-Dhedhi
-- 👀 I’m interested in coding Java and SQL
-- 🌱 I’m currently learning Node.JS
+- 👀 I’m interested in building Flutter
+- 🌱 I’m currently learning React.JS
 - 💞️ I’m looking to collaborate on related projects
 - 📫 How to reach me, try contacting me on email: maryamdhedhi6@gmail.com
 
