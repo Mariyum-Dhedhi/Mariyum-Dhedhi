@@ -50,15 +50,15 @@ information, fast.
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,dotnet,azure,react,nodejs,mongodb,opencv,git,github,gitlab,vscode&theme=dark" alt="tech stack icons" />
 </p>
 
-<br>**ERP & Enterprise:** Dynamics 365 F&O · X++ · Azure Functions & Logic Apps · Copilot Studio · Warehouse Management App customizations · Business Events · Data Entities · SSRS Reports · COCs · Workflows · Azure Pipeline · LCS · Electronic Reporting · CE Integrations · Odata </br>
-<br>**Web:** React · Node.js/Express · MongoDB · REST APIs</br>
-<br>**AI & Automation:** LLM/agent integration into business workflows · Claude Code</br>
-<br>**ML & Data:** Linear Regression, Logistic Regression, KNN, K-Means, Computer Vision</br>
-<br>**Robotics & Simulation:** ROS 2 · Gazebo · Path Planning & Navigation Basics · SLAM Fundamentals · Sensor Integration · OpenCV · Reinforcement Learning </br>
-<br>**Cloud & Azure**: Azure Function Apps · Azure Service Bus · Azure Logic Apps · Azure DevOps · Azure Pipeline · LCS</br>
-<br>**DBMS**: Firebase · SQL Server Reporting Services · SQLite Room</br>
-<br>**Tools/IDES**: Postman · Bruno · VS Code · Visual Studio · IntelliJ · Unity 3D · GitLab · GitHub · TFVC</br>
-<br>**Version Controls**: Azure DevOps · TFVC · GitLab · GitHub</br>
+- **ERP & Enterprise:** Dynamics 365 F&O · X++ · Azure Functions & Logic Apps · Copilot Studio · Warehouse Management App customizations · Business Events · Data Entities · SSRS Reports · COCs · Workflows · Azure Pipeline · LCS · Electronic Reporting · CE Integrations · Odata 
+- **Web:** React · Node.js/Express · MongoDB · REST APIs
+- **AI & Automation:** LLM/agent integration into business workflows · Claude Code
+- **ML & Data:** Linear Regression, Logistic Regression, KNN, K-Means, Computer Vision
+- **Robotics & Simulation:** ROS 2 · Gazebo · Path Planning & Navigation Basics · SLAM Fundamentals · Sensor Integration · OpenCV · Reinforcement Learning
+- **Cloud & Azure**: Azure Function Apps · Azure Service Bus · Azure Logic Apps · Azure DevOps · Azure Pipeline · LCS
+- **DBMS**: Firebase · SQL Server Reporting Services · SQLite Room
+- **Tools/IDES**: Postman · Bruno · VS Code · Visual Studio · IntelliJ · Unity 3D · GitLab · GitHub · TFVC
+- **Version Controls**: Azure DevOps · TFVC · GitLab · GitHub
 
 
 ### Featured project
