@@ -47,13 +47,19 @@ information, fast.
 ### Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,csharp,react,nodejs,mongodb,git,azure,cs,unity,vscode&theme=dark" alt="tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,dotnet,azure,react,nodejs,mongodb,opencv,git,github,gitlab,vscode&theme=dark" alt="tech stack icons" />
 </p>
 
-**ERP & Enterprise:** Dynamics 365 F&O · X++ · Azure Functions & Logic Apps · Copilot Studio
-**Robotics & ML:** ROS 2 · Gazebo · OpenCV · Reinforcement Learning · SLAM basics
-**Web:** React · Node.js/Express · MongoDB · REST APIs
-**AI & Automation:** LLM/agent integration into business workflows · Claude Code
+<br>**ERP & Enterprise:** Dynamics 365 F&O · X++ · Azure Functions & Logic Apps · Copilot Studio · Warehouse Management App customizations · Business Events · Data Entities · SSRS Reports · COCs · Workflows · Azure Pipeline · LCS · Electronic Reporting · CE Integrations · Odata </br>
+<br>**Web:** React · Node.js/Express · MongoDB · REST APIs</br>
+<br>**AI & Automation:** LLM/agent integration into business workflows · Claude Code</br>
+<br>**ML & Data:** Linear Regression, Logistic Regression, KNN, K-Means, Computer Vision</br>
+<br>**Robotics & Simulation:** ROS 2 · Gazebo · Path Planning & Navigation Basics · SLAM Fundamentals · Sensor Integration · OpenCV · Reinforcement Learning </br>
+<br>**Cloud & Azure**: Azure Function Apps · Azure Service Bus · Azure Logic Apps · Azure DevOps · Azure Pipeline · LCS</br>
+<br>**DBMS**: Firebase · SQL Server Reporting Services · SQLite Room</br>
+<br>**Tools/IDES**: Postman · Bruno · VS Code · Visual Studio · IntelliJ · Unity 3D · GitLab · GitHub · TFVC</br>
+<br>**Version Controls**: Azure DevOps · TFVC · GitLab · GitHub</br>
+
 
 ### Featured project
 
@@ -69,16 +75,6 @@ information, fast.
   </tr>
 </table>
 
-### GitHub stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mariyum-Dhedhi&show_icons=true&theme=transparent&hide_border=true&title_color=0F8A7E&icon_color=0F8A7E&text_color=1B1E22" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyum-Dhedhi&layout=compact&theme=transparent&hide_border=true&title_color=0F8A7E&text_color=1B1E22" alt="Top languages" height="165">
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariyum-Dhedhi&theme=transparent&hide_border=true&ring=0F8A7E&fire=C98A1F&currStreakLabel=0F8A7E" alt="GitHub streak">
-</p>
 
 ### Contribution snake 🐍
 
