@@ -75,6 +75,21 @@ information, fast.
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="140" align="center">
+      <img
+        src="https://img.icons8.com/fluency/96/combo-chart.png"
+        width="72"
+        alt="ESG Portfolio Reporting">
+    </td>
+    <td>
+      <b><a href="https://github.com/Mariyum-Dhedhi/esg-portfolio-reporting">ESG Portfolio Reporting</a></b> — portfolio analytics & ESG reporting dashboard<br>
+      <sub>Python · Streamlit · ESG metrics · Data visualization · Portfolio performance reporting</sub>
+    </td>
+  </tr>
+</table>
+
 
 ### Contribution snake 🐍
 
